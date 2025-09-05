@@ -14,3 +14,4 @@ This project aims to provide doctors, hospitals, and researchers with real-time 
 Power BI: for data visualisation
 Power Query: for data cleaning
 
+![Dashboard Preview]() 
