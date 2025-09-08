@@ -14,5 +14,7 @@ This project aims to provide doctors, hospitals, and researchers with real-time 
 Power BI: for data visualisation
 Power Query: for data cleaning
 
+Access the live project: https://app.powerbi.com/groups/me/reports/36bd9ffa-06a8-48dd-b63b-a5f70882ffc2/7990c474d8f9bfca5f69?experience=power-bi
+
 Dashboard Preview
 ![Dashboard Preview](https://github.com/Yogita2409/Astha-hospital-dashboard/blob/master/dashboard.png) 
