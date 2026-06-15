@@ -17,5 +17,4 @@ Power Query: for data cleaning
 Access the live project: https://app.powerbi.com/groups/me/reports/36bd9ffa-06a8-48dd-b63b-a5f70882ffc2/7990c474d8f9bfca5f69?experience=power-bi
 
 Dashboard Preview
-![Dashboard Preview](<img width="1210" height="663" alt="HealthCare Dashboard 1" src="https://github.com/user-attachments/assets/26c1a002-92aa-4f02-bc8d-a27ff4a31721" />
-) 
+![Dashboard Preview](<img width="1199" height="674" alt="image" src="https://github.com/user-attachments/assets/433c9f65-fa9b-421e-a5f0-e4ed628f07d4" />) 
